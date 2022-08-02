@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973018638915",
+    "project_id": "gpacalculator-3eb41",
+    "storage_bucket": "gpacalculator-3eb41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973018638915:android:c375374baa7d2baae782f6",
+        "android_client_info": {
+          "package_name": "com.example.gpacalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973018638915-ri496g4nfood9rk02j4vv8kstgpbeg4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSZyAYloEvEkmlRi7arfcg5JQ_qtpuDI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973018638915-ri496g4nfood9rk02j4vv8kstgpbeg4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

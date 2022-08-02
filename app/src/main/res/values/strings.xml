@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">NammaKloud</string>
+    <string name="cgpa_menu">CGPA calculator</string>
+    <string name="cumulaive_menu">Cumulative cgpa</string>
+    <string name="add">Clear List</string>
+
+    <string-array name="section">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>NS</item>
+    </string-array>
+    <string-array name="branch">
+        <item>Choose Branch</item>
+        <item>Electrical and Electronics</item>
+        <item>Electronics and Telecommunication</item>
+        <item>Electronics and Instrumentation</item>
+        <item>AIML</item>
+        <item>Medical Electronics</item>
+        <item>Information Science</item>
+        <item>Mechanical</item>
+        <item>Industrial and Management</item>
+        <item>Electronics and Communication</item>
+        <item>Computer Science</item>
+        <item>Aerospace</item>
+        <item>Chemical</item>
+        <item>Biotech</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>0</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+        <item>2029</item>
+        <item>2030</item>
+        <item>2031</item>
+        <item>2032</item>
+        <item>2033</item>
+        <item>2034</item>
+        <item>2035</item>
+    </string-array>
+
+
+    <string-array name="integer">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="alpha">
+        <item>NULL</item>
+        <item>S</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+
+
+</resources>

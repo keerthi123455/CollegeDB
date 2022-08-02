@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gpacalculator">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GPAcalculator">
+        <activity android:name=".Splash"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity8" />
+        <activity android:name=".batchDispFull" />
+        <activity android:name=".semEntry1" />
+        <activity android:name=".semEntry" />
+        <activity android:name=".batchDisp" />
+        <activity android:name=".resMes" />
+        <activity android:name=".message" />
+        <activity android:name=".display" />
+        <activity android:name=".batch" />
+        <activity android:name=".facultyChoice" />
+        <activity android:name=".proctorDetails" />
+        <activity android:name=".studentChoice" />
+        <activity android:name=".proctor" />
+        <activity android:name=".sectionFaculty" />
+        <activity android:name=".register" />
+        <activity android:name=".semester" />
+        <activity android:name=".information" />
+        <activity android:name=".section1" />
+        <activity android:name=".cie" />
+        <activity android:name=".exam" />
+        <activity android:name=".sections" />
+        <activity android:name=".MainActivity7" />
+        <activity
+            android:name=".MainActivity6"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".MainActivity5" />
+        <activity android:name=".MainActivity4" />
+        <activity
+            android:name=".MainActivity3"
+            android:parentActivityName=".MainActivity4" />
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".MainActivity">
+
+        </activity>
+    </application>
+
+</manifest>
